@@ -1,6 +1,6 @@
 :root {
-  --mp4-photo: url('https://i.postimg.cc/ZYPTf9bM/27a075f2f6d0f679df5bf182ca45decb.jpg');
-  --login-icon: url('https://i.postimg.cc/0ykd6JjR/Get-Image8.webp');
+  --mp4-photo: url('assets/mehdi2.jpg');
+  --login-icon: url('assets/mehdipf.png');
 }
 
 @font-face {
